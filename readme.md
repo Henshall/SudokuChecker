@@ -36,4 +36,3 @@ $sodoku_checker->validate();
 $validity = $sodoku_checker->is_valid;
 ```
 
-
