@@ -35,4 +35,3 @@ $sodoku_checker = new SudokuChecker($invalid_sudoku);
 $sodoku_checker->validate();
 $validity = $sodoku_checker->is_valid;
 ```
-
